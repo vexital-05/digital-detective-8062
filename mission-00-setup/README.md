@@ -1,4 +1,4 @@
-# Mission 0 README - Required Content:
+# Mission 00 - Required Content:
 
 - [x] Task Completed and setup the repository
 - [x] Tools Setup: _Python 3.14.7_ and _Git 2.54.0_

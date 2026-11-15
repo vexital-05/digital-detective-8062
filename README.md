@@ -17,3 +17,7 @@
 | [mission-07-networking](mission-07-networking/README.md) | Network concepts and observations. |
 | [mission-08-final-report](mission-08-final-report/README.md) | Final review and submission checklist. |
 | [evidence](evidence/README.md) | Privacy-safe screenshots or selected output, grouped by mission |
+
+## My Learning
+
+#### The main things that I have learnt uptil now are how a computer works, its fundamentals, the number system and how the converersion of a number takes place both manually and also using the help of python and its built-in functions. I have also learnt about the main responsibilites of OS and the file permissions that exist.

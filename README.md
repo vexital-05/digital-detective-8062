@@ -17,3 +17,15 @@
 | [mission-07-networking](mission-07-networking/README.md) | Network concepts and observations. |
 | [mission-08-final-report](mission-08-final-report/README.md) | Final review and submission checklist. |
 | [evidence](evidence/README.md) | Privacy-safe screenshots or selected output, grouped by mission |
+
+---
+
+#### To run the number converter, from Mission 5, is pretty simple and straight forward. You have to run the python script using `python3 number_converter.py` and then enter a decimal number. The script will convert the number into its binary and hexadecimal counterparts and thereby display the output of the same.
+
+---
+
+#### Throughout the Digital Detective assignment, I understood how computers operate from the hardware level. I learned how operating systems manages files, processes, and also manages permissions. I also practiced navigating and troubleshooting through the command-line terminal, and explored how computers represent numbers, text, and execute programs. Finally, I applied version control workflows using Git and GitHub to organize and publish my work. I also investigated how DNS, protocols, and client-server networks work in everyday web browsing.
+
+---
+
+## **Note: Each mission was documented and committed seperately.**
